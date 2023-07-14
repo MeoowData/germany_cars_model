@@ -16,13 +16,13 @@ Não será utilizado um threshold para as métricas de performance, pois não fo
 
 Para realização dessa atividade será utilizado apenas Python 3.11.3 com as seguintes bibliotecas e versões:
 
-seaborn          : 0.12.2
-pandas           : 2.0.3
-re               : 2.2.1
-scipy            : 1.11.1
-category_encoders: 2.6.1
-numpy            : 1.24.4
-matplotlib       : 3.7.1
+* seaborn          : 0.12.2
+* pandas           : 2.0.3
+* re               : 2.2.1
+* scipy            : 1.11.1
+* category_encoders: 2.6.1
+* numpy            : 1.24.4
+* matplotlib       : 3.7.1
 
 
 ## **Dados utilizados**
